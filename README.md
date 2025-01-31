@@ -10,6 +10,8 @@ All of the flags have a unique usage and can be combined together :
 - d : only shows the directory's infos
 - t : sort by modification time
 ## Usage
+use make to create the my_ls exectuable  
+
 ./my_ls (+any flags or files in any order)  
 exemples :  
 - ./my_ls  
